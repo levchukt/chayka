@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #1D3557;
+
+}
+
+.title{
+    color: white;
+    font-weight: 700;
+}
+
+.text{
+    color: white;
+    margin: 5px;
+}
+
+.div{
+    background-color: #A3B18A;
+    margin: 20px;
+    border-radius: 30px;
+}
+
+h1{
+    margin-left: 300px;
+}
+
+
+.about{
+    display: flex;
+}
+
+.KATALOG{
+    background-color: #A3B18A;
+    margin: 20px;
+    border-radius: 30px;
+}
+
+.Filter{
+    display: flex;
+    gap: 30px;
+   padding: 40px;
+   position: relative;
+    
+    
+    
+}
+
+.Filter ul{
+width: 200px;
+background-color: #1D3557;
+border-radius: 10px;
+    color: white;
+    padding: 25px;
+    height: fit-content;
+    position: sticky;
+    top: 30px;
+}
+
+
+.Product_cards{
+    
+    width: 100%;
+}
+
+.card-img-top{
+    width: 80%;
+    height: 200px;
+}
+
+.container{
+    background-color: #1D3557;
+    margin: 0px;
+}
+
+footer{
+    background-color: #1D3557;
+}
+
+.footer-text{
+    color: white;
+}
+
+.text{
+    color: #fff;
+}
+
+.call{
+    margin: 20px;
+}
+.g-3{
+    margin-left: 200px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-align: center;
+    width: 25%;
+}
+
+.Cards{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
